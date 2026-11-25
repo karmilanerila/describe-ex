@@ -1,0 +1,1 @@
+Build an entry for the make.fun bounty "Describe Your Ex in One Word" (u-puan-describe-your-ex-in-one-word-9fc6ebe7): a Python program (main.py, stdlib only) that writes exactly one word describing an ex to /output/entry.txt — the word "unsubscribe" — honouring MAKEFUN_OUTPUT_DIR, writing with open("wb") plus chmod 0644, no tempfile, no extra text or trailing newline.
